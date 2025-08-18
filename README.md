@@ -99,7 +99,7 @@ Below is the classification report and Confusion Matrix
 | **Macro Avg**      | 0.80      | 0.60   | 0.63     | 12,357  |
 | **Weighted Avg**   | 0.88      | 0.90   | 0.88     | 12,357  |
 
-![img.png](cm_lr_all_features.png)
+![img.png](images/cm_lr_all_features.png)
 
 This model performs better. It can now identify 21% of positive classes and almost all negative classes.    
 
